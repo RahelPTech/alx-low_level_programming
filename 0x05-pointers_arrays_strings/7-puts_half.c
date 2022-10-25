@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * put_half -> puts half
+ * puts_half -> puts half
  * @str: string paramameter
  */
 void puts_half(char *str)
