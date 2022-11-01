@@ -5,7 +5,7 @@
  *
  * @dest: is destination memory
  *
- * src: is source memory
+ * @src: is source memory
  *
  * @n: number of bytes to be copied
  *
